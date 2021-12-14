@@ -1,0 +1,20 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "projeto pra iniciar e treinar no Node",
+  "main": "index.js",
+  "scripts": {
+    "principal": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laranelson/Node.Js.git"
+  },
+  "author": "Nelson Lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laranelson/Node.Js/issues"
+  },
+  "homepage": "https://github.com/laranelson/Node.Js#readme"
+}
